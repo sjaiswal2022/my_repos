@@ -45,10 +45,10 @@ public class AppTest
     }
     public void testApp4()
     {
-        assertTrue( true );
+        assertTrue( false );
     }
     public void testApp5()
     {
-        assertTrue( true );
+        assertTrue( false );
     }
 }
